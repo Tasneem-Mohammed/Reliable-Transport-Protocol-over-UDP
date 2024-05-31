@@ -25,10 +25,10 @@ This project, We aimed to implement a reliable transport protocol utilizing the 
 ### Client.py
 ```python
 # Client.py
-# sender.py - The sender in the reliable data transfer protocol
+# sender.py - The sender in the rdt protocol
 ```
 
 ### Server.py
 ```python
 # Server.py
-# receiver.py - The receiver in the reliable data transfer protocol
+# receiver.py - The receiver in the rdt protocol
