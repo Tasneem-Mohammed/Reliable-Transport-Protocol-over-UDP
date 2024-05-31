@@ -1,4 +1,4 @@
-## Computer Networks Project
+## Computer Networks Project : Socket Programming
 
 ### Implementation of Reliable Transport Protocol Using Go-Back-N (GBN) Protocol over UDP
 
@@ -7,7 +7,7 @@
 
 
 ### 1. Introduction
-This project aimed to implement a reliable transport protocol utilizing the Go-Back-N (GBN) protocol over UDP. The GBN protocol enhances the reliability of UDP by enabling the sender to transmit multiple packets without awaiting acknowledgments while maintaining a limited number of unacknowledged packets in the pipeline.
+This project, We aimed to implement a reliable transport protocol utilizing the Go-Back-N (GBN) protocol over UDP. The GBN protocol enhances the reliability of UDP by enabling the sender to transmit multiple packets without awaiting acknowledgments while maintaining a limited number of unacknowledged packets in the pipeline.
 
 ### 2. Implementation Details
 #### - GBN Algorithm:
@@ -26,7 +26,7 @@ This project aimed to implement a reliable transport protocol utilizing the Go-B
 ```python
 # Client.py
 # sender.py - The sender in the reliable data transfer protocol
-  
+```
 
 ### Server.py
 ```python
