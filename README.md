@@ -21,6 +21,10 @@ This project, We aimed to implement a reliable transport protocol utilizing the 
    - If the received packet is the expected one, it stores the application data; otherwise, it discards the data.
    - The receiver sends acknowledgments for correctly received packets, advancing the expected packet ID.
 
+### Some Visualization
+![Figure_1](https://github.com/Tasneem-Mohammed/Reliable-Transport-Protocol-over-UDP/assets/120495578/f398cd02-d248-42fb-9205-aa23d5211c42)
+
+
 
 ### Client.py
 ```python
